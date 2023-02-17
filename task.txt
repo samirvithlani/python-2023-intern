@@ -1,0 +1,16 @@
+!)take 2 numbers from users and check which one is bigger or same??
+2)take number from user and check it is even or odd??
+3)take number from user and check it is positive or negative??
+
+4)enter year from user and check it is leap year or not??
+5)take 3 numbers from user and check which one is bigger or same??
+
+6) enter salary of employee monthly
+
+
+
+if salary is grt than 200000 then give 5% tax
+if salary is grt than 500000 then give 10% tax
+if salary is grt than 1000000 then give 15% tax
+if salary is grt than 1500000 then give 20% tax
+net salary

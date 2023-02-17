@@ -1,0 +1,51 @@
+application
+AI DATA SCIENCE
+MACHINE LEARNING
+DEEP LEARNING
+WEB DEVELOPMENT --> django, flask
+ERP --> odoo,
+
+
+staatically typed languages
+dynamicallly typed languages  :- 
+
+int no = 10;
+no = 10
+
+0101010
+hhgjkhkljlkjl
+lkjlkjlkj
+
+compiler 
+interpreter -->
+
+.py 
+
+
+operators:---> 
+
+operators are symbols to perform operations on operands
+
+type of operator  
+
+
+logical operator and or not
+arithmatic operator + - * / % // **
+asignment operator = += -= *= /= %= //= **=
+comparison operator == != > < >= <=
+identity operator is is not
+membership operator in not in
+ternery operator ?:
+
+
+decsion making statements      
+
+if else
+looping 
+
+
+
+
+
+
+
