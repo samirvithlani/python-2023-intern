@@ -42,8 +42,25 @@ decsion making statements
 
 if else
 looping 
+-------------------------------------------
 
+//intiliazation
+//condition
+//increment/
 
+i =9
+i =10
+i=11
+for(i=1;i<=10;i+=2){
+
+    statements
+}
+
+---------------------------------------------
+list
+tuple
+set
+dictionary
 
 
 
