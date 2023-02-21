@@ -46,6 +46,19 @@ palindrome  121
 
 
 
+LIST task
+
+1)remove duplicate elemets from list
+2)find palindrome name from list  "naman" ccount
+3)find palindrom name from list and store it into another list
+
+
+4) add data to tuple from user and print it
+
+
+
+
+
 
 
 
