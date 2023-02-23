@@ -55,6 +55,9 @@ LIST task
 
 4) add data to tuple from user and print it
 
+list =[]
+tup =()
+rank ={}
 
 
 

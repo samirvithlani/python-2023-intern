@@ -66,8 +66,16 @@ dictionary
 mutablity : can change
 
 
+boilerplate code...
+
+50 --->  db user
 
 
+return type with argument
+
+void
+int demo
+string demo
 
 
-
+def 
