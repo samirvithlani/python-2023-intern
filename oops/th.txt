@@ -1,0 +1,29 @@
+oops:
+encapsulation
+    class and object
+
+class : -class is a user defined data type,
+ which holds its own data members and member functions, 
+ which can be accessed and used by creating an instance of that class.
+ A class is like a blueprint for an object.
+
+ object:-object is an instance / entity / identity of a class.
+
+ class      object
+ Animal   is  dog
+            cat
+            lion
+
+ Vehicle    car
+            bus
+            bike
+
+School     is  student
+            teacher
+            principal            
+                         
+
+inheritance
+polymorphism
+
+abstraction
